@@ -1,0 +1,13 @@
+.post {
+    border: 2px solid #ccc;
+    padding: 20PX;
+    background-color: brown;
+    margin: 16px;
+    border-radius: 8px;
+}
+
+button {
+    padding: 30px;
+    margin: 20px 45%;
+    background-color: aqua;
+}
