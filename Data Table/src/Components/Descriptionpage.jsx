@@ -25,7 +25,7 @@ const Descriptionpage = () => {
                 <img src={singleproduct.image} alt="" height="250px" width="500px"/>
                 <h3>{singleproduct.title}</h3>
                 <h1>{singleproduct.price}</h1>
-                <h5>{singleproduct.company}</h5>
+                <h3>{singleproduct.company}</h3>
                 <p>{singleproduct.description}</p>
             </div>
         </div>

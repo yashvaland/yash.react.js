@@ -7,7 +7,7 @@ const Product = () => {
   const [page, setpage] = useState(1)
   const [company, setcompany] = useState(null)
   const [order, setorder] = useState(null)
-
+  const [search,setsearch]=useState("")
   // ### get function ###
   const getfromserver = () => {
     axios.get(`http://localhost:3000/Products`, {
@@ -17,6 +17,7 @@ const Product = () => {
         company: company,
         _sort: "price",
         _order: order,
+        q:search
       }
     })
       .then((res) => {
@@ -37,7 +38,7 @@ const Product = () => {
   }
   useEffect(() => {
     getfromserver()
-  }, [page, company, order])
+  }, [page, company, order,search])
   return (
     <div style={{ textAlign: "center" }}>
       <div style={{ display: "flex", justifyContent: "space-evenly", marginTop: "20px" }}>
@@ -47,7 +48,7 @@ const Product = () => {
           <option value="suzuki">Suzuki</option>
           <option value="toyota">Toyota</option>
         </select>
-        <input type="text" placeholder='Search' />
+        <input type="text" onChange={(e)=>setsearch(e.target.value)} placeholder='Search' />
 
         <div style={{ display: "flex" }}>
           <button onClick={() => setorder("asc")}>Low To High</button>
