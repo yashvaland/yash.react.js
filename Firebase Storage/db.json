@@ -1,0 +1,156 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Mahindra XUV700 AX7 Luxury Pack Diesel AT AWD 7 STR",
+      "price": "24.99 lakh",
+      "description": "The XUV700, available in five- and seven-seater options, features an attractive design and a quality cabin. Packed with modern features and high safety ratings, it offers good engine performance and road dynamics, competitively priced in its segment.",
+      "company": "mahindra",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Mahindra Thar Roxx Price",
+      "price": "16.00 lakh",
+      "description": "Mahindra Thar Roxx is a SUV which is expected to launch in India in 15th Aug 2024 in the expected price range of Rs. 16.00 - 20.00 Lakh. It is available in 2 variants with 2 transmission options : Automatic and Manual. The Thar Roxx is available in 3 colours.",
+      "company": "mahindra",
+      "image": "https://imgd.aeplcdn.com/227x128/n/cw/ec/124839/thar-roxx-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Mahindra Scorpio",
+      "price": "17.42 Lakh",
+      "description": "The Mahindra Scorpio is a rugged and durable SUV with high seating for a commanding view. Its diesel engine provides decent power for both on and off-road adventures. With seating options for seven or nine, it is spacious for passengers and cargo.",
+      "company": "mahindra",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Mahindra Scorpio N",
+      "price": "24.54 Lakh",
+      "description": "The Scorpio N is a premium, large three-row SUV. It feels rugged, spacious in the first two rows, and is feature-loaded, with a commanding appearance. Its big engines, seamlessly shifting auto gearboxes, and absorbent ride make it great for both city driving and long distances.",
+      "company": "mahindra",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Mahindra Thar",
+      "price": "17.60 Lakh",
+      "description": "The Thar is a two-door, serious off-roader that drives reasonably well on the road. It stands out with its rugged stance, modern design, and durable construction. The powertrains are powerful, with the petrol option being superbly refined and entertaining for a Mahindra.",
+      "company": "mahindra",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Maruti Fronx",
+      "price": "13.04 Lakh",
+      "description": "The Fronx is an attractive and spacious crossover based on the Baleno, boasting a long list of features. Its engines are efficient and sufficiently powerful, available with both AMT and torque converter options. The ride is accomplished, with adequate ground clearance.",
+      "company": "suzuki",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Maruti Swift",
+      "price": "9.60 Lakh",
+      "description": "The Maruti Swift is a modern hatchback with a sporty design that is fun to drive. It has many contemporary features and an adequately spacious cabin and offers high mileage thanks to its efficient petrol engine.",
+      "company": "suzuki",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/159099/swift-exterior-right-front-three-quarter.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 8,
+      "title": "Maruti Grand Vitara",
+      "price": "20.09 Lakh",
+      "description": "The Grand Vitara is a stylish, feature-rich SUV with generous space and a premium feel. Easy entry and exit complement its comfortable ride, while fuel efficiency is notable, especially on the CNG and strong-hybrid variants.",
+      "company": "suzuki",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Maruti Baleno",
+      "price": "9.83 Lakh",
+      "description": "The Baleno is a premium hatchback, offering many new-age features and a spacious cabin for five passengers. It is easy to drive, feels stable at highway speeds and gets a refined 1.2-litre petrol engine that’s high on efficiency.",
+      "company": "suzuki",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/102663/baleno-exterior-right-front-three-quarter-66.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 10,
+      "title": "Maruti Ertiga",
+      "price": "13.03 Lakh",
+      "description": "The Ertiga is an MPV, combining adequate modern features with great value for money. Its spacious and practical three-row cabin provides versatility, complemented by user-friendly performance and CNG efficiency. It's an ideal choice for those seeking both comfort and functionality.",
+      "company": "suzuki",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/115777/ertiga-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 11,
+      "title": "Maruti Wagon R",
+      "price": "7.38 Lakh",
+      "description": "The Wagon R stands out as a versatile hatchback, offering ample space and smart storage options thanks to its tall design. With a comfortable ride, decent features, and fuel-efficient engine, it's ideal for easy city commuting.",
+      "company": "suzuki",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/112947/wagon-r-2022-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 12,
+      "title": "Maruti Jimny",
+      "price": "14.95 Lakh",
+      "description": "The Jimny is a compact off-roader, renowned for its agility, competence, and capability both off-the-road and on the highway. Its five-door design enhances practicality, is decently equipped with modern features and benefits from Maruti's extensive service network.",
+      "company": "suzuki",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/45299/jimny-exterior-right-front-three-quarter-27.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 13,
+      "title": "Maruti Eeco",
+      "price": "6.58 Lakh",
+      "description": "The Eeco, a tall and versatile van, in 5 and 7-seater variants, combines CNG efficiency with sliding doors for easy access. Its peppy petrol engine ensures smooth driving, while its upright design enhances visibility. It is a favourite among taxi fleets",
+      "company": "suzuki",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/135523/eeco-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 14,
+      "title": "Toyota Urban Cruiser Taisor",
+      "price": "13.04 Lakh",
+      "description": "The Taisor takes inspiration from the already stylish Fronx, enhancing its crossover design with attractive design tweaks. With a roomy cabin, modern features, adequate performance, reasonable fuel efficiency, smooth ride quality, and improved warranty coverage, it's a compelling package.",
+      "company": "toyota",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/132427/taisor-exterior-right-front-three-quarter-2.png?isig=0&q=80"
+    },
+    {
+      "id": 15,
+      "title": "Toyota Urban Cruiser Hyryder",
+      "price": "19.99 Lakh",
+      "description": "The Urban Cruiser Hyryder has a unique and handsome stance. Its robust and ergonomic cabin is feature-laden, roomy, and has large seats. With strong hybrid efficiency, refined performance, stable highway manners, and ADAS functionality, it ensures a comfortable driving experience.",
+      "company": "toyota",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 16,
+      "title": "Toyota Innova Hycross",
+      "price": "30.98 Lakh",
+      "description": "The Innova Hycross blends classic Innova DNA with modern SUV design. As a spacious and comfortable people mover, it offers good ride quality. Additionally, with the new petrol-hybrid powerplant, it promises higher fuel efficiency.",
+      "company": "toyota",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 17,
+      "title": "",
+      "price": "51.44 Lakh",
+      "description": "The Fortuner, known for Toyota's bulletproof reliability, commands the road with its imposing stance, true 4x4 capability, and powerful engines. Adequately equipped with features, it seats seven passengers comfortably and excels at covering long distances with ease and comfort.",
+      "company": "toyota",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 18,
+      "title": "Toyota Land Cruiser",
+      "price": "2.10 Crore",
+      "description": "The Land Cruiser boasts tank-like build quality and a spacious cabin for five with comfortable seats and enormous boot space. With loads of V6 diesel power, excellent visibility, and a supreme ride, it feels tough enough for any terrain and truly special.",
+      "company": "toyota",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/139739/land-cruiser-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 19,
+      "title": "Toyota Fortuner Legender",
+      "price": "47.64 Lakh",
+      "description": "The Legender has an imposing road presence and comes with a strong diesel engine and the convenience of a smooth automatic gearbox. Additionally, Toyota’s reliability and finesse make it robust and easy to venture where roads don’t exist.",
+      "company": "toyota",
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/137767/fortuner-legender-exterior-right-front-three-quarter-3.png?isig=0&q=80"
+    }
+  ]
+}
